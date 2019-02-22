@@ -1,0 +1,13 @@
+body {
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.navbar-bg {
+  background-image: url(../resources/tex2res4_@2X.png) !important;
+  background-repeat: repeat !important;
+  background-size: 400px 400px !important;
+}
